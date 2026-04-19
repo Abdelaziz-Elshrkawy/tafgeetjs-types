@@ -7,7 +7,7 @@
   "keywords": [],
   "license": "ISC",
   "main": "",
-  "name": "tafgeet-types",
+  "name": "@types/tafgeetjs",
   "packageManager": "pnpm@10.32.0",
   "publishConfig": {
     "access": "public"
